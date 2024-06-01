@@ -1,0 +1,5 @@
+datasets:
+  food-101:
+    url: http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz
+    download_path: ./.data/food-101.tar.gz
+    extract_path: ./.data/food-101

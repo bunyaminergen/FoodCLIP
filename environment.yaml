@@ -1,0 +1,17 @@
+name: FoodCLIP
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu121
+      - torch==2.3.0+cu121
+      - torchvision==0.18.0+cu121
+      - clip==0.2.0
+      - pillow==10.3.0
+      - autopep8==2.1.1
+      - requests==2.32.2
+      - pyaml==24.4.0
+      - tqdm==4.66.4
+      - transformers==4.41.2
