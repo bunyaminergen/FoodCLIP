@@ -4,7 +4,8 @@
 
 # FoodClip
 /.data/food-101/
-
+/FoodCLIP101/
+/.logs/
 
 # Hugging Face
 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
@@ -1490,3 +1491,4 @@ tags
 
 ### GPG template
 secring.*
+
