@@ -125,7 +125,7 @@ wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/
 
 ### Documentations
 ##### Turkish Readme
-- [README_TR](README_TR.md)
+- [README_TR](.docs/README/README_TR.md)
 
 ##### TO DO
 - [TODO](TODO.md)
